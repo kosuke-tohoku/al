@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://kosuke-tohoku.github.io/al/sitemap.xml
