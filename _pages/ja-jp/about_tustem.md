@@ -1,0 +1,6 @@
+ようこそ
+説明〜〜〜〜〜
+
+写真のすぐ下に住所や私書箱、その他の情報を入れてください。また、`_pages/about.md`のYAMLヘッダーの`profile`プロパティを編集することで、これらの要素を無効にすることができます。\_\_bibliography/papers.bib`を編集し、Jekyllは自動的にあなたの[出版物のページ](/multi-language-al-folio/publications/)をレンダリングします。
+
+あなたのソーシャルメディアの接続にもリンクします。このテーマは、[Font Awesomeアイコン](https://fontawesome.com/)と[Academicons](https://jpswalsh.github.io/academicons/)、下のような使用するように設定されています。あなたのFacebook、Twitter、LinkedIn、Google Scholarを追加するか、またはそれらをすべて無効にしてください。

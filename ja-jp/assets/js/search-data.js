@@ -57,7 +57,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "説明欄",
           section: "",
           handler: () => {
             window.location.href = "/al/ja-jp/teaching/";
@@ -75,27 +75,6 @@ ninja.data = [{
               section: "",
               handler: () => {
                 window.location.href = "/al/ja-jp/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/al/ja-jp/blog/";
-              },
-            },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/al/ja-jp/publications/";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/al/ja-jp/projects/";
               },
             },{id: "dropdown-blog",
               title: "blog",
